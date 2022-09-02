@@ -10,6 +10,7 @@ import { ListadoComponent } from "./listado/listado.component";
     ],
     exports:[
         ListadoComponent,
+        // HeroeComponente,
     ],
     imports:[
         CommonModule
